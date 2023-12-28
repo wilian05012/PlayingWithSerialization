@@ -1,0 +1,12 @@
+﻿@PlayingWithSerialization.Api_HostAddress = https://localhost:44361
+
+POST {{PlayingWithSerialization.Api_HostAddress}}/weatherforecast
+Content-Type: application/json
+
+{
+  "date": "2023-12-28T15:32:09.995Z",
+  "temperatureC": 0,
+  "Summary": 0
+}
+
+###
